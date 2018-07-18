@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: my-friend-container
-        image: saivarunr/my_friend_or_enemy:1
+        image: saivarunr/my_friend_or_enemy:2
